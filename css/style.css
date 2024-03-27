@@ -354,6 +354,9 @@ object-fit: cover;
   header {
     left: -120%;
   }
+    .accueil{
+    text-align: center;
+  }
   #menu {
     display: block;
   }
